@@ -1,0 +1,22 @@
+
+body {
+    background-color: rgb(255, 217, 172);
+}
+
+.hero-image {
+    background-image: url(BG1.png);
+}
+
+.hero-text {
+    text-align: center;
+}
+
+.container {
+    border: 1px solid rgb(255, 217, 172);
+}
+
+.col {
+    padding: 5px;
+    border-radius: 5px;
+    background-color: rgb(255, 217, 172);
+}
