@@ -9,6 +9,7 @@ body {
 
 .hero-text {
     text-align: center;
+    color: white;
 }
 
 .container {
@@ -19,4 +20,5 @@ body {
     padding: 5px;
     border-radius: 5px;
     background-color: rgb(255, 217, 172);
+
 }
